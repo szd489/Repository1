@@ -1,0 +1,3 @@
+Jajka=10zl
+Chleb=8zl
+Maka=4zl
